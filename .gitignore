@@ -1,0 +1,5 @@
+# Ignorar archivos temporales
+*.log
+*.zip
+.DS_Store
+Thumbs.db
